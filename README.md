@@ -1,4 +1,4 @@
-# Bluesky Follower Feed Analyzer
+# Bluesky Feed Analyzer
 
 ## Overview
 This application is a lightweight data pipeline that interacts with the Bluesky Social network via the AT Protocol API. It retrieves structured JSON data to visualize and analyze community activity. Specifically, it fetches a target user's followers and then retrieves the most recent posts authored by those followers. This provides a "follower feed" perspective—allowing you to analyze what the audience of a specific account is currently talking about.
